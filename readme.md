@@ -14,4 +14,9 @@
 - P008-dividir-en-cifras
 
 ## Tarea 1
-- P009 Hipotenusa triangulo
+- P009-Hipotenusa-triangulo
+- P010-Tercer-Angulo
+- P011-Conversion-temperatura
+- P012-Volumen-cilindro
+- P013-Calculo-Tiempo
+- P014-numero-suerte

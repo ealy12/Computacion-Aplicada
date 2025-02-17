@@ -20,3 +20,9 @@
 - P012-Volumen-cilindro
 - P013-Calculo-Tiempo
 - P014-numero-suerte
+
+## Actividad 4
+- P015-Verificar-Numero
+- P016-Verificar-Suma
+- P017-convertir-Temperaturas
+- P018-Paga-Trabajador-V2

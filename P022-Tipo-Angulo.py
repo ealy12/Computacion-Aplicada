@@ -9,7 +9,7 @@ if angulo < 90:
     print('agudo')
 elif angulo == 90:
     print('recto')
-elif angulo > 90 and angulo < 180 :
+elif angulo > 90 and angulo < 180:
     print('obtuso')
 elif angulo == 180:
     print('llano')

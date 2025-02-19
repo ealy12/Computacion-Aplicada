@@ -26,3 +26,9 @@
 - P016-Verificar-Suma
 - P017-convertir-Temperaturas
 - P018-Paga-Trabajador-V2
+
+## Actividad 5
+- P019-Verificar-suma
+- P020-Ley-de-Newton
+- P021-Aceptar-Estudiante
+- P022-Tipo-Angulo

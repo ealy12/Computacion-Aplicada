@@ -32,3 +32,11 @@
 - P020-Ley-de-Newton
 - P021-Aceptar-Estudiante
 - P022-Tipo-Angulo
+
+## Tarea 2
+- P023-Numeros-consecutivos
+- P024-Numero-Mayor
+- P025-Dia-Semana
+- P026-Numeros-Romanos
+- P027-Calculo-Notas
+- P028-Aceptar-Estudiante

@@ -40,3 +40,10 @@
 - P026-Numeros-Romanos
 - P027-Calculo-Notas
 - P028-Aceptar-Estudiante
+
+## Actividad 6
+- P029-Numeros-1-100
+- P030-Numeros-100-1
+- P031-Numeros-1-200-10
+- P032-Numeros-Suma-100
+- P033-Conteo-Numeros

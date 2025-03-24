@@ -47,3 +47,10 @@
 - P031-Numeros-1-200-10
 - P032-Numeros-Suma-100
 - P033-Conteo-Numeros
+
+## Actividad 7
+- P034-TablaConversion
+- P035-ConjeturaCollatz
+- P036-TablaMultiplicar1
+- P037-TablaMultiplicar2
+- P038-AdivinaNumero

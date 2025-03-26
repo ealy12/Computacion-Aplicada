@@ -3,8 +3,6 @@
 # Tipo de paquete: [1] Solo conferencias $600, [2] Con eventos sociales $800, [3] Con kit de acceso $900
 
 # Registro de usuario
-CashA = 0
-CashP = 0
 Opciones = 's'
 imporTot = 0
 total = 0

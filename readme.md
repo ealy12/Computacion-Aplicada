@@ -55,5 +55,13 @@
 - P037-TablaMultiplicar2
 - P038-AdivinaNumero
 
+## Tarea 3
+- P039-Impares-Ascendentes
+- P040-Pares-Descendentes
+- P041-Promedio-Suma
+- P042-Suma-200  
+- P043-Conversion-Temperaturas
+- P044-numero-Mayor
+
 ## Examen 1
 - P045-Examen1

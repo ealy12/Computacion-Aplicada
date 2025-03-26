@@ -15,7 +15,7 @@ while opcion == 's':
         if mayor is None or num > mayor:
             mayor = num 
     if mayor is not None:
-        print(f"El número mayor ingresado es: {mayor}")
+        print(f'El número mayor ingresado es: {mayor}')
     else:
-        print("No ingresaste ningún número válido.")
-    opcion = input("¿Deseas repetir el proceso? (s/n): ").lower()
+        print('No ingresaste ningún número válido.')
+    opcion = input('¿Deseas repetir el proceso? (s/n): ').lower()

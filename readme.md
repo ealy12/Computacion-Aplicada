@@ -65,3 +65,12 @@
 
 ## Examen 1
 - P045-Examen1
+
+## Actividad 8
+- P046-Numeros-1-100
+- P047-Numeros-100-1
+- P048-Arriba-Abajo
+- P049-Pares-Impares
+- P050-Suma-Numeros
+- P051-Multiplos-Suma
+- P052-Base-Exp

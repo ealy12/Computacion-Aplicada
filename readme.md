@@ -74,3 +74,11 @@
 - P050-Suma-Numeros
 - P051-Multiplos-Suma
 - P052-Base-Exp
+
+## Actividad 9
+- P053-Factorial
+- P054-Tablademultiplicar
+- P055-Tablas-De-MultiplicarV2
+- P056-Piramide-Caracter
+- P057-Factorial-Numeros
+- P058-Combina-Colores

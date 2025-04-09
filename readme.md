@@ -82,3 +82,10 @@
 - P056-Piramide-Caracter
 - P057-Factorial-Numeros
 - P058-Combina-Colores
+
+## Actividad 10
+- P064-Acceder-listas
+- P065-Cambiar-Lista
+- P066-Agregar-Lista
+- P067-Remover-Lista
+- P068-Iterar-listas

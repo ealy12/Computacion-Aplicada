@@ -89,3 +89,10 @@
 - P066-Agregar-Lista
 - P067-Remover-Lista
 - P068-Iterar-listas
+
+## Actividad 11
+- P069-Procesamiento-Calificaciones
+- P070-Sumar-Lista
+- P071-Dia-Paga
+- P072-Nombre-Edades
+- P073-Listas-Aleatorios
